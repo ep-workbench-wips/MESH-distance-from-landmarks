@@ -2,7 +2,7 @@
     "num_of_systems": 1,
     "static_widgets": [
         {
-            "name": "Note:",
+            "name": "Note",
             "widget_type": "QLabel",
             "properties": {
                 "text": "A window will pop-up, exit to confirm"
