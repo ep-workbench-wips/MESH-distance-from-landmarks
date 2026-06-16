@@ -1,0 +1,34 @@
+{
+    "num_of_systems": 1,
+    "static_widgets": [
+        {
+            "name": "Note:",
+            "widget_type": "QLabel",
+            "properties": {
+                "text": "A window will pop-up, exit to confirm"
+            }
+        },
+        {
+            "name": "colorbar_upper",
+            "widget_type": "QDoubleSpinBox",
+            "properties": {
+                "min": -10000,
+                "max": 10000,
+                "decimals": 3,
+                "step": 1,
+                "value": 2
+            }
+        },
+        {
+            "name": "colorbar_lower",
+            "widget_type": "QDoubleSpinBox",
+            "properties": {
+                "min": -10000,
+                "max": 10000,
+                "decimals": 3,
+                "step": 1,
+                "value": 0
+            }
+        }
+    ]
+}
